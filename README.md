@@ -1,9 +1,10 @@
+# UE5 plugin and sample project to receive data from MocapForAll
+
 # How to use
+For details, see  
 [How to use in English](https://github.com/Akiya-Research-Institute/MocapForAll-Receiver-Plugin-for-UE5/wiki/How-to-use)  
 [日本語版つかいかた](https://github.com/Akiya-Research-Institute/MocapForAll-Receiver-Plugin-for-UE5/wiki/%E4%BD%BF%E3%81%84%E6%96%B9)
 
-# UE5 plugin and sample project to receive data from MocapForAll
- 
 In MocapForAll,
 - turn on "Settings > Data export > VMT protocol > Send tracking positions" or "Send bones"
 - turn off "Settings > Data export > VMT protocol > Send tracking positions > As relative position to HMD"
