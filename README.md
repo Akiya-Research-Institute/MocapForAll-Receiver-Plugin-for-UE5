@@ -2,8 +2,8 @@
 
 # How to use
 
-- [How to use in English](https://github.com/Akiya-Research-Institute/MocapForAll-Receiver-Plugin-for-UE5/wiki/How-to-use)  
-- [日本語版つかいかた](https://github.com/Akiya-Research-Institute/MocapForAll-Receiver-Plugin-for-UE5/wiki/%E4%BD%BF%E3%81%84%E6%96%B9)
+- [How to use in English](https://github.com/Akiya-Research-Institute/MocapForAll-Receiver-Plugin-for-UE4/wiki/How-to-use)  
+- [日本語版つかいかた](https://github.com/Akiya-Research-Institute/MocapForAll-Receiver-Plugin-for-UE4/wiki/%E4%BD%BF%E3%81%84%E6%96%B9)
 
 # Quick start
 
